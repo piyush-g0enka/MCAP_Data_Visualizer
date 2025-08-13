@@ -7,6 +7,8 @@ visualizes the robot's movement and nearby obstacles using an animated Matplotli
 plot. It dynamically updates the robot's position, detects the nearest object, and displays 
 the distance between them. 
 
+[View the simulation](https://www.youtube.com/watch?v=8HW-jvKzbCw)
+
 ### STEPS TO RUN THE DOCKER CONTAINER (Ubuntu)
 
 First create a docker container with the given DockerFile and source files. Then download the mcap-visualizer.tar file in a folder. 
