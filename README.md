@@ -9,8 +9,7 @@ the distance between them.
 
 ### STEPS TO RUN THE DOCKER CONTAINER (Ubuntu)
 
-First, download the mcap-visualizer.tar file in a folder. 
-
+First create a docker container with the given DockerFile and source files. Then download the mcap-visualizer.tar file in a folder. 
 Then follow the below steps to run the container 
 
 #### use sudo if there are permission issues 
