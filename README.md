@@ -1,5 +1,4 @@
-### MCAP_Data_Visualizer
-### RESIM TECHNICAL CHALLENGE
+## MCAP Data Visualizer - RESIM TECHNICAL CHALLENGE
 
 ### INTRODUCTION
 
